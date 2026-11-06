@@ -4,7 +4,7 @@
 - **Estudante:** Gabriel Benato Batistel Correa
 - **Turma:** 2A
 - **Chave Única:** `T26-2A-A958-5C0C-F86E-1C3E`
-- **URL_CLOUDFLARE:** `https://t26-2a-a958-5c0c-f86e-1c3e.pages.dev` *(Atualize com a URL pública real do seu deploy na Cloudflare antes de abrir o Pull Request)*
+- **URL_CLOUDFLARE:** `https://gabriel-teste.pages.dev` *(Atualize com a URL pública real do seu deploy na Cloudflare antes de abrir o Pull Request)*
 
 ---
 
